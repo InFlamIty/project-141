@@ -1,0 +1,43 @@
+body
+{
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#top_marking
+{
+    text-align: left;
+}
+#h1
+{
+    display: inline;
+}
+#instruct
+{
+    font-size: 25px;
+    float: right;
+    border: 2px solid blueviolet;
+}
+#play
+{
+    font-size: 30px;
+    border: 3px dashed blue;
+}
+.copyright
+{
+    margin-bottom: 0px;
+    line-height: 2;
+    bottom: 0;
+    font-size: 20px;
+}
+.modal-dialog
+{
+    width: 60%;
+}
+.modal-body
+{
+    text-align: left;
+}
+canvas
+{
+    border: 10px ridge green;
+}
